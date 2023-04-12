@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sarthakdixit2003/job-listing-react-app)
-- Live Site URL: [Add live site URL here](https://app.netlify.com/sites/sage-sfogliatella-063a99/deploys/6436b666b7bed20074826730)
+- Solution URL: [Solution URL](https://github.com/sarthakdixit2003/job-listing-react-app)
+- Live Site URL: [Live site URL](https://app.netlify.com/sites/sage-sfogliatella-063a99/deploys/6436b666b7bed20074826730)
 
 ## My process
 
@@ -47,6 +47,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/sarthakdixit2003)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sarthakdixit2003)
+- Website - [Sarthak Dixit](https://github.com/sarthakdixit2003)
+- Frontend Mentor - [@sarthakdixit2003](https://www.frontendmentor.io/profile/sarthakdixit2003)
 
