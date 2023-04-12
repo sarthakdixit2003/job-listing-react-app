@@ -1,0 +1,98 @@
+.header {
+  height: 95px;
+  background-color: hsl(180, 29%, 50%);
+  margin-bottom: 40px;
+}
+
+.header-background {
+  height: 95px;
+  width: 100%;
+}
+
+.job {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-radius: 7px;
+  box-shadow: 5px 3px 8px hsl(180, 7%, 76%);
+  padding: 20px;
+  margin: 20px 150px 0 150px;
+}
+
+.left-border {
+  border-left: 7px solid hsl(180, 29%, 50%);
+}
+
+.image {
+  height: 70px;
+  width: 70px;
+  margin-right: 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  font-size: 15px;
+  font-weight: 700;
+  width:100%;
+}
+
+.title {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 7px;
+}
+
+.company {
+  color: hsl(180, 29%, 50%);
+  margin-right: 10px;
+}
+
+.new {
+  font-size: 12px;
+  color: white;
+  background-color:hsl(180, 29%, 50%);
+  padding: 5px 10px;
+  margin-right: 10px;
+  border-radius: 30px;
+}
+
+.featured {
+  font-size: 12px;
+  color: white;
+  background-color: black;
+  padding: 5px 10px;
+  margin-right: 10px;
+  border-radius: 30px;
+}
+
+.position {
+  margin-bottom: 5px;
+}
+
+.details {
+  color:hsl(180, 8%, 52%);
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.dot {
+  margin: 0 20px;
+}
+
+.tags {
+  display: flex;
+}
+
+.tag {
+  background-color: hsl(180, 31%, 95%);
+  font-size: 15px;
+  color: hsl(180, 29%, 50%);
+  margin-right: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
